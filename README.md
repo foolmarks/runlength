@@ -1,2 +1,4 @@
-# runlength
-Compact Run Length Encoder &amp; Decoder
+# Compact Run Length Encoder & Decoder
+
+Refer to: http://www.markharvey.info/des/runlength/runlength.html
+
